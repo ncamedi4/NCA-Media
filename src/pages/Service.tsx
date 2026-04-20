@@ -26,41 +26,41 @@ const SERVICES_DATA = {
     type: 'strategy'
   },
   'social-media': {
-    title1: 'Social Media',
-    title2: 'Management',
+    title1: 'Social Media Byrå',
+    title2: 'i Malmö',
     badge: 'SOCIALA MEDIER',
-    desc: 'Vi hanterar dina kanaler, bygger community och skapar organiskt engagemang.',
-    content: 'Vi tar över spakarna för era sociala medier. Från idé och content planering till publicering och community management – vi sköter driften så ni kan fokusera på er kärnverksamhet.',
-    extendedContent: 'Det handlar inte bara om att posta snygga bilder. Det handlar om att bygga ett community. Vi anpassar tonalitet och format unikt för Instagram, TikTok och LinkedIn för att få maximal effekt.',
-    benefits: ['Löpande publicering', 'Community Management', 'Rapportering & Analys', 'Tillväxtstrategier'],
+    desc: 'Vi tar hand om era sociala medier från strategi till publicering — så ni kan fokusera på att driva verksamheten.',
+    content: 'NCA Media är en social media-byrå i Malmö som hanterar hela kedjan: innehållsstrategi, produktion, publicering och community management på Instagram, TikTok och LinkedIn. Vi bygger inte bara räckvidd — vi bygger ett system som omvandlar följare till betalande kunder. Våra kunder i Skåne ser mätbara resultat inom 2–3 veckor från start.',
+    extendedContent: 'De flesta företag i Malmö och Skåne vet att de behöver vara aktiva på sociala medier — men saknar tid, strategi och resurser för att göra det på rätt sätt. Vi löser det. Som er social media-byrå tar vi ansvar för hela flödet: vi planerar vad som ska publiceras och när, producerar bilderna och videorna, sköter kommentarer och meddelanden och rapporterar varje månad vad som faktiskt genererat leads och försäljning. Vi mäter aldrig i likes. Vi mäter i affärer.',
+    benefits: ['Löpande publicering på Instagram, TikTok & LinkedIn', 'Content-produktion — vi filmar och fotograferar', 'Community management & kundservice i sociala kanaler', 'Månadsrapport med leads, räckvidd och konverteringar', 'Strategi kopplad till säsong och lokala triggers i Skåne'],
     process: [
-      { title: '1. Uppstart', desc: 'Vi fastställer tonalitet, grafisk profil och rutiner.' },
-      { title: '2. Content Calendar', desc: 'En rullande schema med planerade inlägg.' },
-      { title: '3. Interaktion', desc: 'Vi svarar, gillar och engagerar oss med er målgrupp.' },
-      { title: '4. Uppföljning', desc: 'Månatlig rapportering på räckvidd och konvertering.' }
+      { title: '1. Uppstart & strategi', desc: 'Vi kartlägger er målgrupp, konkurrenter och sätter rätt tonalitet och grafisk profil för era kanaler.' },
+      { title: '2. Content Calendar', desc: 'En rullande publiceringsplan — ni godkänner, vi publicerar. Inga överraskningar.' },
+      { title: '3. Produktion & publicering', desc: 'Vi filmar, fotograferar, redigerar och publicerar. Ni behöver inte röra ett finger.' },
+      { title: '4. Mätning & optimering', desc: 'Månadsvis genomgång: vad konverterade, vad skalade vi upp, vad stängde vi ner.' }
     ],
     video: 'https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4',
-    seoTitle: 'Social Media Management | Driv engagemang & försäljning | NCA Media',
-    seoDesc: 'Låt oss ta över dina sociala medier. NCA Media hanterar löpande scheman, interaktion och strategi på plattformar som Instagram, TikTok & LinkedIn.',
+    seoTitle: 'Social Media Byrå Malmö | NCA Media',
+    seoDesc: 'Social media-byrå i Malmö med fokus på resultat — inte likes. Vi hanterar Instagram, TikTok och LinkedIn åt er. Boka gratis strategisamtal.',
     type: 'social'
   },
   'videoproduktion': {
-    title1: 'Visuellt som',
-    title2: 'säljer',
+    title1: 'Videoproduktion',
+    title2: 'i Malmö',
     badge: 'PRODUKTION',
-    desc: 'High-end foto och videoproduktion designat specifikt för Meta & TikTok.',
-    content: 'Visuellt berättande är det som får tummen att stanna. Vårt in-house team producerar filmer, drönarbilder och skarpa foton som förmedlar er känsla och konverterar.',
-    extendedContent: 'Oavsett om det är en rörande brand-video, dynamiska reels eller glödheta matbilder så sköter vi allt från storyboarding till klippning och färgkorrigering.',
-    benefits: ['Kommersiell video', 'Reels / TikTok-fokuserat', 'Produktfoto & Drönare', 'Professionell redigering'],
+    desc: 'Professionell videoproduktion i Malmö och Skåne — content som stannar flödet och driver försäljning.',
+    content: 'NCA Media producerar videor och foto i Malmö för företag som vill synas och sälja på Instagram, TikTok och Meta-annonser. Vi hanterar hela produktionen på plats hos er — från planering och script till inspelning, redigering och leverans redo för sociala medier. Solblixt fick 70+ leads under vecka 1 med content vi producerade. Shahs Halal Food skalade sin annonsbudget 10× på vinnande videomaterial vi skapat.',
+    extendedContent: 'Videoproduktion i Malmö och Skåne är vårt kärnuppdrag. Vi producerar reklamfilm, brand videos, Reels, TikToks och drönarbilder för företag i hela Öresundsregionen — inklusive Lund, Helsingborg och Köpenhamn. Varje video vi producerar är byggd för ett specifikt syfte: fler leads, fler bokningar eller en skalbar Meta-annons. Vi filmar med professionell kamerautrustning, sköter belysning och ljud på plats och levererar färdigt redigerat material med textning och färgkorrigering anpassat för varje plattform.',
+    benefits: ['Reklamfilm & brand videos för sociala medier', 'Reels och TikTok-content optimerat för algoritmen', 'Drönarfilm i Malmö och Skåne', 'Professionell redigering, färgkorrigering & textning', 'Content anpassat för Meta-annonsering och skalning'],
     process: [
-      { title: '1. Pre-production', desc: 'Kreativ brief, storyboarding, script och planering.' },
-      { title: '2. Produktion', desc: 'Inspelningsdagar med professionell kamera, ljud och ljus.' },
-      { title: '3. Post-production', desc: 'Klippning, färgkorrigering, ljuddesign och textning.' },
-      { title: '4. Leverans', desc: 'Färdigt material anpassat för varje enskild plattform.' }
+      { title: '1. Brief & strategi', desc: 'Vi sätter mål, målgrupp och kreativ riktning. Varje video produceras med ett affärsmål — inte bara estetik.' },
+      { title: '2. Script & planering', desc: 'Vi skriver scripts och hooks, bokar inspelningsdag och planerar setup på er plats i Malmö eller Skåne.' },
+      { title: '3. Inspelning', desc: 'Professionellt kamerateam på plats. Vi hanterar kamera, ljus och ljud — ni fokuserar på att vara er.' },
+      { title: '4. Redigering & leverans', desc: 'Klippning, färgkorrigering, ljuddesign, on-screen text och textning. Levererat i rätt format per plattform.' }
     ],
     video: 'https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4',
-    seoTitle: 'Videoproduktion i Skåne | Reklamfilm & Reels | NCA Media',
-    seoDesc: 'Slående videoproduktion och kommersiellt foto för sociala medier. Vi skapar högkvalitativt content som stannar flödet och säljer din produkt.',
+    seoTitle: 'Videoproduktion Malmö | Reklamfilm & Reels | NCA Media',
+    seoDesc: 'Professionell videoproduktion i Malmö och Skåne. Vi producerar reklamfilm, Reels och TikTok-content som driver leads och försäljning. Boka gratis samtal.',
     type: 'production'
   },
   'meta-annonsering': {
