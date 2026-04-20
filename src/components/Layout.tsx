@@ -8,13 +8,10 @@ import { useTranslation } from 'react-i18next';
 const LOGO_URL = 'https://firebasestorage.googleapis.com/v0/b/studio-7709662742-59a36.firebasestorage.app/o/NCA%20Media%20V2%2FLogos%2FNCA_LOGO_PRIMARY.png?alt=media&token=d6eb8a9d-8878-4c0f-8fe4-814cb7b6e290';
 
 const SERVICES_LINKS = [
-  { label: 'Digital Strategy', href: '/services/digital-strategy' },
-  { label: 'Social Media Management', href: '/services/social-media-management' },
-  { label: 'Photo & Video Production', href: '/services/photo-video-production' },
-  { label: 'Websites', href: '/services/websites' },
-  { label: 'Google & META Ads', href: '/services/google-meta-ads' },
-  { label: 'Influencer Marketing', href: '/services/influencer-marketing' },
-  { label: 'Brand Awareness', href: '/services/brand-awareness' },
+  { label: 'Videoproduktion', href: '/videoproduktion' },
+  { label: 'Social Media Management', href: '/social-media' },
+  { label: 'Meta & Google Ads', href: '/meta-annonsering' },
+  { label: 'Innehållsstrategi', href: '/innehallsstrategi' },
 ];
 
 const NAV_LINKS = [

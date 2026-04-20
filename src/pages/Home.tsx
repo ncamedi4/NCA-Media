@@ -159,15 +159,15 @@ const Hero = () => {
 
         <SectionReveal delay={0.4}>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 sm:gap-6 w-full">
-            <Link to="/contact" className="w-full sm:w-auto">
+            <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0O2ONrthdIcPUexyhm_obXwKib8FLv5lrUnsCV9wLxpuXqFDulYyMfgyNtajNyYF-6jHAcCyeJ" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto">
               <button className="w-full sm:w-auto px-6 py-3.5 md:px-8 md:py-4 rounded-md bg-[#1b54ff] text-white font-medium hover:bg-[#1b54ff]/90 transition-all flex items-center justify-center gap-2">
                 <div className="w-2 h-2 rounded-md bg-white" />
-                {t('nav.contact')}
+                {t('hero.ourServices')}
               </button>
-            </Link>
+            </a>
             <Link to="/portfolio" className="w-full sm:w-auto">
               <button className="w-full sm:w-auto px-6 py-3.5 md:px-8 md:py-4 rounded-md text-white font-medium hover:bg-white/10 transition-colors flex items-center justify-center gap-2">
-                {t('hero.ourServices')} <ArrowRight weight="duotone" className="w-5 h-5 -rotate-45" />
+                Se våra case <ArrowRight weight="duotone" className="w-5 h-5 -rotate-45" />
               </button>
             </Link>
           </div>
@@ -547,18 +547,18 @@ const ServicesGrid = () => {
           >
             <div className="border border-foreground/10 bg-foreground/[0.02] p-8 lg:p-12 flex flex-col lg:flex-row items-center justify-between gap-8 rounded-md">
               <div className="max-w-xl text-center lg:text-left">
-                <h3 className="text-foreground text-3xl lg:text-4xl font-bold mb-4">Ready to dominate the market?</h3>
+                <h3 className="text-foreground text-3xl lg:text-4xl font-bold mb-4">{t('cta.title1')} {t('cta.title2')}</h3>
                 <p className="text-foreground/70 text-lg">
-                  Let us tailor a digital strategy that transforms your company into the industry's obvious choice.
+                  {t('cta.desc')}
                 </p>
               </div>
               
               <div className="flex-shrink-0 w-full lg:w-auto">
-                <Link to="/contact" className="w-full lg:w-auto block">
+                <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0O2ONrthdIcPUexyhm_obXwKib8FLv5lrUnsCV9wLxpuXqFDulYyMfgyNtajNyYF-6jHAcCyeJ" target="_blank" rel="noopener noreferrer" className="w-full lg:w-auto block">
                   <PrimaryButton variant="solid" showArrow className="w-full lg:w-auto">
-                    Book your strategy call
+                    {t('cta.btn', 'Boka strategisamtal')}
                   </PrimaryButton>
-                </Link>
+                </a>
               </div>
             </div>
           </motion.div>
