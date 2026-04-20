@@ -11,6 +11,7 @@ import { TestimonialsColumn } from '@/src/components/ui/testimonial-v2';
 import { InfiniteSlider } from '@/src/components/ui/infinite-slider';
 import { Link, useLocation } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
+import { useMeta } from '@/src/hooks/useMeta';
 
 const HERO_BG_IMAGE = "https://firebasestorage.googleapis.com/v0/b/studio-7709662742-59a36.firebasestorage.app/o/Namnlo%CC%88s%20design%20(4).png?alt=media&token=928c1711-165a-43a7-8e87-0b956ce76d5a";
 const LOGO_URL = "https://firebasestorage.googleapis.com/v0/b/studio-7709662742-59a36.firebasestorage.app/o/NCA%20Media%20V2%2FLogos%2FNCA_LOGO_PRIMARY.png?alt=media&token=d6eb8a9d-8878-4c0f-8fe4-814cb7b6e290";
@@ -1061,6 +1062,11 @@ const FAQContact = () => {
 };
 
 export const Home = () => {
+  useMeta({
+    title: 'NCA Media – Videoproduktion & Digital Marknadsföring i Malmö',
+    description: 'Vi är inte en contentbyrå. Vi är er tillväxtpartner. Videoproduktion, social media och Meta-annonsering i Malmö. Boka gratis strategisamtal.',
+    canonical: 'https://www.ncamedia.se/',
+  });
   const location = useLocation();
 
   useEffect(() => {

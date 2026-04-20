@@ -6,8 +6,14 @@ import { cn } from '@/src/lib/utils';
 import { PrimaryButton } from '@/src/components/Layout';
 import { TextReveal, SectionReveal } from '@/src/components/Animations';
 import { useTranslation } from 'react-i18next';
+import { useMeta } from '@/src/hooks/useMeta';
 
 export const Contact = () => {
+  useMeta({
+    title: 'Kontakt – NCA Media | Boka gratis strategisamtal',
+    description: 'Boka ett gratis strategisamtal med Anton Norrman. Vi går igenom er situation och vilket upplägg som ger mest tillväxt — utan förpliktelser.',
+    canonical: 'https://www.ncamedia.se/contact',
+  });
   const { t } = useTranslation();
   const [formData, setFormData] = useState({
     fullName: '',

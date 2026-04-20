@@ -7,6 +7,7 @@ import { TextReveal, SectionReveal } from '@/src/components/Animations';
 import { CASES } from '@/src/components/TheNCAWay';
 import { PrimaryButton } from '@/src/components/Layout';
 import { useTranslation } from 'react-i18next';
+import { useMeta } from '@/src/hooks/useMeta';
 
 const RESTAURANT_PROJECTS = [
   {
@@ -67,6 +68,11 @@ const SHORT_VIDEOS = [
 ];
 
 export const Portfolio = () => {
+  useMeta({
+    title: 'Portfolio – NCA Media | Case & Videoproduktion Malmö',
+    description: 'Se våra case och resultat. 70+ leads vecka 1 för Solblixt, 10× skalad annonsbudget för Shahs Halal Food. NCA Media i Malmö.',
+    canonical: 'https://www.ncamedia.se/portfolio',
+  });
   const { t } = useTranslation();
 
   return (

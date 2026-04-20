@@ -4,6 +4,7 @@ import { ArrowRight, ArrowLeft, CheckCircle, Buildings, ForkKnife, Sparkle } fro
 import { PrimaryButton } from '@/src/components/Layout';
 import { cn } from '@/src/lib/utils';
 import { useTranslation } from 'react-i18next';
+import { useMeta } from '@/src/hooks/useMeta';
 
 type FormType = 'universal' | 'restaurant' | null;
 
@@ -173,6 +174,11 @@ const RESTAURANT_STEPS = [
 ];
 
 export const Analysis = () => {
+  useMeta({
+    title: 'Skräddarsydd Analysplan – NCA Media Malmö',
+    description: 'Fyll i formuläret och få en skräddarsydd digital strategi för din verksamhet. Kostnadsfritt från NCA Media i Malmö.',
+    canonical: 'https://www.ncamedia.se/analysis',
+  });
   const { t } = useTranslation();
   const [formType, setFormType] = useState<FormType>(null);
   const [currentStep, setCurrentStep] = useState(0);

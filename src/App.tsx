@@ -31,8 +31,8 @@ export default function App() {
               <Route path="/priser" element={<Pricing />} />
               <Route path="/:city(malmo|helsingborg|lund)" element={<LocalLanding />} />
               <Route path="/case/solblixt" element={<CaseSolblixt />} />
-              
-              {/* Nya Tjänstesidor */}
+
+              {/* Tjänstesidor */}
               <Route path="/videoproduktion" element={<Service slug="videoproduktion" />} />
               <Route path="/social-media" element={<Service slug="social-media" />} />
               <Route path="/meta-annonsering" element={<Service slug="meta-annonsering" />} />

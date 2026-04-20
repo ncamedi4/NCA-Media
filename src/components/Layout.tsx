@@ -20,6 +20,7 @@ const NAV_LINKS = [
 
 const OTHER_LINKS = [
   { label: 'Portfolio', href: '/portfolio' },
+  { label: 'Priser', href: '/priser' },
 ];
 
 export const PrimaryButton = React.forwardRef<

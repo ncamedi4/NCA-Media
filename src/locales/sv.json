@@ -4,7 +4,8 @@
     "about": "Om oss",
     "portfolio": "Portfolio",
     "contact": "Kontakt",
-    "getQuote": "Offertförfrågan"
+    "getQuote": "Offertförfrågan",
+    "priser": "Priser"
   },
   "hero": {
     "unleashing": "Content som driver leads,",
@@ -120,7 +121,7 @@
     "tagline": "Vem vi är",
     "title1": "Tillväxt som",
     "title2": "faktiskt syns",
-    "desc": "NCA MEDIA grundades av Anton Norrman. Vi är en tillväxtpartner för restauranger och ambitiösa verksamheter i Skåne. Vi kombinerar videoproduktion, innehållsstrategi och betald annonsering till ett sammanhållet system som skapar mätbara affärsresultat. Vi mäts inte på antal videos. Vi mäts på din omsättning.",
+    "desc": "NCA MEDIA grundades av Anton Norrman. Vi är en tillväxtpartner för ambitiösa verksamheter i Skåne och Danmark. Vi kombinerar videoproduktion, innehållsstrategi och betald annonsering till ett sammanhållet system som skapar mätbara affärsresultat. Vi mäts inte på antal videos. Vi mäts på din omsättning.",
     "darkTitle1": "Marknadsföring byggd på bevis,",
     "darkTitle2": "inte löften.",
     "darkDesc": "En vanlig byrå levererar content och skickar en rapport. Vi levererar content kopplat till ett mål — och stannar tills målet är uppnått. Vi tar ansvar för din tillväxt så att du kan fokusera på din verksamhet.",
@@ -141,9 +142,9 @@
     "cookie": "Cookiepolicy",
     "socials": "Sociala medier",
     "office": "Kontor",
-    "address1": "Östra Kyrkogatan 22",
-    "address2": "611 34 Nyköping",
-    "address3": "Sverige",
+    "address1": "Lund, Skåne",
+    "address2": "Sverige",
+    "address3": "",
     "rights": "Alla rättigheter förbehållna."
   },
   "portfolio": {
