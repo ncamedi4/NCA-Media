@@ -15,6 +15,7 @@ import { Service } from '@/src/pages/Service';
 import { Pricing } from '@/src/pages/Pricing';
 import { LocalLanding } from '@/src/pages/LocalLanding';
 import { CaseSolblixt } from '@/src/pages/cases/CaseSolblixt';
+import { Kampanj } from '@/src/pages/Kampanj';
 
 export default function App() {
   return (
@@ -31,6 +32,7 @@ export default function App() {
               <Route path="/priser" element={<Pricing />} />
               <Route path="/:city(malmo|helsingborg|lund)" element={<LocalLanding />} />
               <Route path="/case/solblixt" element={<CaseSolblixt />} />
+              <Route path="/kampanj" element={<Kampanj />} />
 
               {/* Tjänstesidor */}
               <Route path="/videoproduktion" element={<Service slug="videoproduktion" />} />

@@ -25,7 +25,8 @@ export default defineConfig(({mode}) => {
           '/videoproduktion',
           '/social-media',
           '/meta-annonsering',
-          '/innehallsstrategi'
+          '/innehallsstrategi',
+          '/kampanj'
         ],
         renderer: new RendererJSDOM({
           renderAfterTime: 2000,
