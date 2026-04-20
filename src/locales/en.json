@@ -1,0 +1,223 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "unleashing": "Unleashing potential.",
+    "creating": "Creating impact.",
+    "description": "We help brands dominate the digital world.",
+    "ourServices": "Our Services"
+  },
+  "partnerships": {
+    "trusted": "Trusted by experts.",
+    "used": "Used by the leaders."
+  },
+  "services": {
+    "tagline": "Our Services",
+    "title1": "Comprehensive solutions for",
+    "title2": "your company's growth",
+    "desc": "We offer everything your company needs to dominate the digital market and turn attention into actual customers.",
+    "items": {
+      "strategy": {
+        "title": "Digital Strategy",
+        "desc": "A tailored roadmap for your company's digital growth and long-term success."
+      },
+      "social": {
+        "title": "Social Media Management",
+        "desc": "We manage your channels, create engagement, and build a loyal community."
+      },
+      "photo": {
+        "title": "Photo & Video Production",
+        "desc": "High-quality content that captures your company's atmosphere and offerings in a way that sells."
+      },
+      "web": {
+        "title": "Websites",
+        "desc": "Modern, fast, and conversion-optimized websites that make it easy for customers to act."
+      },
+      "ads": {
+        "title": "Google & META Ads",
+        "desc": "Targeted advertising that puts your business in front of the right customers."
+      },
+      "influencer": {
+        "title": "Influencer Marketing",
+        "desc": "We connect your brand with the right profiles to reach a broader target audience."
+      },
+      "brand": {
+        "title": "Brand Awareness",
+        "desc": "We strengthen your brand and make your company the obvious choice in your industry."
+      }
+    }
+  },
+  "creators": {
+    "title1": "Creators",
+    "title2": "we have worked with"
+  },
+  "bento": {
+    "tagline": "Growth Ecosystem",
+    "title1": "Everything your company",
+    "title2": "needs to scale efficiently.",
+    "items": {
+      "bookings": { "title": "More bookings", "desc": "Drive reservations and sales directly through your social channels and website." },
+      "orders": { "title": "Increased orders", "desc": "Increase sales with targeted growth systems." },
+      "returning": { "title": "Returning customers", "desc": "Build a loyal community that constantly returns." },
+      "local": { "title": "Local dominance", "desc": "Become the obvious choice in your industry with a strong local brand." }
+    }
+  },
+  "principles": {
+    "tagline": "Core Values",
+    "title1": "How we",
+    "title2": "operate.",
+    "btn": "Explore Our Portfolio",
+    "items": {
+      "learning": { "title": "Learning fast Scaling faster", "desc": "We believe in brands and products that add real value to people's lives, not just noise. What you offer will be what people want and welcome." },
+      "strategy": { "title": "Strategically driven", "desc": "Every decision we make is backed by data and a clear understanding of your business goals. We don't just guess; we strategize for success." },
+      "humanity": { "title": "Humanity obsessed", "desc": "At the core of every digital interaction is a human being. We design and market with empathy, ensuring your brand resonates on a personal level." },
+      "noMediocrity": { "title": "No to Mediocrity", "desc": "We set the bar high. Good enough is never enough. We strive for excellence in every campaign, design, and line of code we deliver." }
+    }
+  },
+  "team": {
+    "tagline": "THE FOUNDERS WORD",
+    "quote": "\"Most agencies deliver content. We build systems that grow with you. It doesn't matter if you sell food, services, or experiences. If you win the attention, you win the market.\"",
+    "desc1": "Anton Norrman founded NCA MEDIA with the conviction that growth requires more than good pictures. It requires strategy, structure, and creative that actually converts. NCA MEDIA works with ambitious brands that want to grow for real, through content that looks premium and is built to sell.",
+    "name": "Anton Norrman",
+    "role": "Founder, NCA MEDIA"
+  },
+  "testimonials": {
+    "tagline": "Reviews",
+    "title1": "What our clients",
+    "title2": "say about us",
+    "excellent": "Excellent",
+    "reviews": "reviews"
+  },
+  "faq": {
+    "tagline": "F.A.Q",
+    "title1": "Answers to",
+    "title2": "your questions",
+    "items": {
+      "q1": { "q": "Do I have to sign a long-term contract?", "a": "No, we believe in delivering results, not locking customers into long contracts. Our partnerships are built on mutual trust and flexibility." },
+      "q2": { "q": "How quickly can we see results?", "a": "It depends on your current situation and chosen strategies, but we often see initial results within the first few weeks after launching our campaigns." },
+      "q3": { "q": "Do you work with companies all over Sweden?", "a": "Yes, we collaborate with customers across the country digitally. No matter where you are, we can help you reach your goals." },
+      "q4": { "q": "How much do your services cost?", "a": "We tailor our packages to your specific needs and goals. Contact us for a free quote and we will develop a proposal that fits your budget." }
+    },
+    "contact": {
+      "title": "Have more questions?",
+      "desc": "Drop a quick message and we'll usually reply within a few hours.",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Your email address",
+      "msgLabel": "Message",
+      "msgPlaceholder": "What's on your mind?",
+      "btn": "Send message",
+      "successAlert": "Message sent! We will get back to you as soon as possible."
+    }
+  },
+  "why": {
+    "tagline": "About Us",
+    "title1": "Why",
+    "title2": "Choose Us?",
+    "desc": "Because we measure our success by your growth. At NCA Media, you get an agency that thinks long-term, acts strategically and delivers creatively. We build partnerships based on trust, insight, and documented results. With us, you get no standard solutions, but a dedicated team that understands your brand, your challenges, and your goals. We report on what actually matters, work with full transparency, and build partnerships that last.",
+    "darkTitle1": "Marketing built on proof,",
+    "darkTitle2": "not promises.",
+    "darkDesc": "People expect more from brands than ever before. At the same time, achieving large-scale success has never been harder. Brands need to go beyond the ordinary. We use the tools of today to create top-notch growth solutions, helping companies reach the top.",
+    "darkTagline": "Agency & Consulting"
+  },
+  "cta": {
+    "tagline": "Analysis",
+    "title1": "Get a",
+    "title2": "Tailored Analysis Plan",
+    "desc": "Fill out our form and we will develop a custom analysis and strategy for how your company can grow digitally. Completely free of charge and without obligations.",
+    "btn": "Get your analysis"
+  },
+  "footer": {
+    "sitemap": "Sitemap",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms & Conditions",
+    "cookie": "Cookie Policy",
+    "socials": "Socials",
+    "office": "Office",
+    "address1": "Östra Kyrkogatan 22",
+    "address2": "611 34 Nyköping",
+    "address3": "Sweden",
+    "rights": "All rights reserved."
+  },
+  "portfolio": {
+    "tagline": "Selected Work",
+    "title1": "Cases that",
+    "title2": "stand out.",
+    "shortVideosTitle1": "Short Form",
+    "shortVideosTitle2": "Videos"
+  },
+  "contact": {
+    "tagline": "Contact",
+    "title1": "Let's talk",
+    "title2": "business.",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again.",
+    "info": "Contact Info",
+    "socials": "Socials",
+    "availability": "We usually respond within 24 hours.",
+    "emailUs": "Email Us",
+    "callUs": "Call Us"
+  },
+  "ncaWay": {
+    "tagline": "Our Approach",
+    "title1": "The",
+    "title2": "NCA Way",
+    "desc": "<strong class=\"font-semibold text-foreground\">Creativity with direction. Strategy with soul.</strong> At NCA Media, marketing is not just about visibility, but about creating real connections that drive growth. We believe that people want to see people, not advertising. <strong class=\"font-semibold text-foreground\">The NCA Way</strong> is our unique method of combining strategy, creativity, and targeted content, elevated through organic and paid marketing to create a personal connection and communication that feels real, engages, and delivers results.",
+    "items": {
+      "strategy": {
+        "title": "Strategic Foundation",
+        "desc": "Everything starts with insight. We get to know your brand and target audience to uncover opportunities and set a clear direction. This ensures that every campaign is based on insight, measurable, and tailored for growth."
+      },
+      "content": {
+        "title": "Creative Content that Hits the Mark",
+        "desc": "We create ideas and content that resonate with the target audience, engage, build trust, and feel real, relevant, and human. Through testing and optimization, we ensure that the content performs across social media and advertising."
+      },
+      "growth": {
+        "title": "Holistic Growth Strategy",
+        "desc": "When the strategy is set, we help you scale your marketing. We connect content, distribution, and paid advertising in one plan – where creativity and strategy go hand in hand to increase visibility, strengthen the brand, and drive profitable growth."
+      }
+    }
+  },
+  "analysis": {
+    "title1": "Tailored",
+    "title2": "Analysis Plan",
+    "desc": "Fill in the form below and we will develop a strategy tailored specifically for your business.",
+    "tagline": "Analysis",
+    "b2b": {
+      "title": "Company / B2B / B2C",
+      "desc": "For service companies, e-commerce, and other businesses."
+    },
+    "restaurant": {
+      "title": "Restaurant / Café",
+      "desc": "Specifically adapted for restaurants, cafés, and bars."
+    },
+    "step": "Step",
+    "of": "of",
+    "completed": "completed",
+    "next": "Next",
+    "submit": "Submit form",
+    "back": "Back",
+    "required": "This field is required",
+    "selectOption": "Choose an option...",
+    "placeholder": "Your answer...",
+    "success": {
+      "title": "Thank you for your answers!",
+      "desc": "We have received your information and will now start working on your customized analysis plan. So that we can present it to you in the best way, please book a short meeting in our calendar.",
+      "btn": "Book meeting in our calendar"
+    }
+  },
+  "cookie": {
+    "message": "We use cookies to improve your experience, analyze site usage, and show personalized content.",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "nav": {
+    "services": "Tjenester",
+    "about": "Om os",
+    "portfolio": "Portefølje",
+    "contact": "Kontakt",
+    "getQuote": "Få et tilbud"
+  },
+  "hero": {
+    "unleashing": "Frigør potentiale.",
+    "creating": "Skaber gennemslagskraft.",
+    "description": "Vi hjælper brands med at dominere den digitale verden.",
+    "ourServices": "Vores tjenester"
+  }
+}

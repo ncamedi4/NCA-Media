@@ -1,0 +1,223 @@
+{
+  "nav": {
+    "services": "Tjänster",
+    "about": "Om oss",
+    "portfolio": "Portfolio",
+    "contact": "Kontakt",
+    "getQuote": "Offertförfrågan"
+  },
+  "hero": {
+    "unleashing": "Content som driver leads,",
+    "creating": "inte bara räckvidd.",
+    "description": "Vi är inte en contentbyrå. Vi är din tillväxtpartner. Vi producerar content, kör Meta-annonser och optimerar tills leads, affärer och omsättning går upp — oavsett bransch.",
+    "ourServices": "Boka gratis strategisamtal"
+  },
+  "partnerships": {
+    "trusted": "Betrodda av experter.",
+    "used": "Används av de ledande."
+  },
+  "services": {
+    "tagline": "Våra Tjänster",
+    "title1": "Heltäckande lösningar för",
+    "title2": "ditt företags tillväxt",
+    "desc": "Vi erbjuder allt ditt företag behöver för att dominera den digitala marknaden och konvertera uppmärksamhet till faktiska kunder.",
+    "items": {
+      "strategy": {
+        "title": "Digital Strategi",
+        "desc": "En skräddarsydd plan för ditt företags digitala tillväxt och långsiktiga framgång."
+      },
+      "social": {
+        "title": "Hantering av sociala medier",
+        "desc": "Vi hanterar dina kanaler, skapar engagemang och bygger ett lojalt community."
+      },
+      "photo": {
+        "title": "Foto- & videoproduktion",
+        "desc": "Högkvalitativt innehåll som fångar ditt företags atmosfär och utbud på ett sätt som säljer."
+      },
+      "web": {
+        "title": "Hemsidor",
+        "desc": "Moderna, snabba och konverteringsoptimerade hemsidor som gör det enkelt för kunder att agera."
+      },
+      "ads": {
+        "title": "Google & META Ads",
+        "desc": "Målgruppsanpassad annonsering som sätter ditt företag framför rätt kunder."
+      },
+      "influencer": {
+        "title": "Influencer Marketing",
+        "desc": "Vi kopplar ihop ditt varumärke med rätt profiler för att nå en bredare målgrupp."
+      },
+      "brand": {
+        "title": "Varumärkeskännedom",
+        "desc": "Vi stärker ditt varumärke och gör ditt företag till det självklara valet i din bransch."
+      }
+    }
+  },
+  "creators": {
+    "title1": "Kreatörer",
+    "title2": "vi har arbetat med"
+  },
+  "bento": {
+    "tagline": "Tillväxtsekosystem",
+    "title1": "Allt ditt företag",
+    "title2": "behöver för att skala effektivt.",
+    "items": {
+      "bookings": { "title": "Fler bokningar", "desc": "Driv bokningar och försäljning direkt via dina sociala kanaler och hemsida." },
+      "orders": { "title": "Ökade beställningar", "desc": "Öka försäljningen med målinriktade tillväxtsystem." },
+      "returning": { "title": "Återkommande kunder", "desc": "Bygg ett lojalt community som ständigt återvänder." },
+      "local": { "title": "Lokal dominans", "desc": "Bli det självklara valet i din bransch med ett starkt lokalt varumärke." }
+    }
+  },
+  "principles": {
+    "tagline": "Kärnvärderingar",
+    "title1": "Hur vi",
+    "title2": "arbetar.",
+    "btn": "Utforska Vår Portfolio",
+    "items": {
+      "learning": { "title": "Lär dig snabbt, skala snabbare", "desc": "Vi tror på varumärken och produkter som tillför verkligt värde till människors liv, inte bara brus." },
+      "strategy": { "title": "Strategiskt drivna", "desc": "Varje beslut vi fattar backas upp av data och en tydlig förståelse för dina affärsmål." },
+      "humanity": { "title": "Mänskligt fokus", "desc": "Kärnan i varje digital interaktion är en människa. Vi designar och marknadsför med empati." },
+      "noMediocrity": { "title": "Nej till medelmåttighet", "desc": "Vi sätter ribban högt. Möjligast bra är aldrig tillräckligt." }
+    }
+  },
+  "team": {
+    "tagline": "THE FOUNDERS WORD",
+    "quote": "\"De flesta byråer levererar content. Vi bygger system som växer med dig. Det spelar ingen roll om du säljer mat, tjänster eller upplevelser. Vinner du uppmärksamheten vinner du marknaden.\"",
+    "desc1": "Anton Norrman grundade NCA MEDIA med övertygelsen att tillväxt kräver mer än bra bilder. Det kräver strategi, struktur och kreativt som faktiskt konverterar. NCA MEDIA arbetar med ambitiösa varumärken som vill växa på riktigt, genom content som ser premium ut och är byggt för att sälja.",
+    "name": "Anton Norrman",
+    "role": "Grundare, NCA MEDIA"
+  },
+  "testimonials": {
+    "tagline": "Recensioner",
+    "title1": "Vad våra kunder",
+    "title2": "säger om oss",
+    "excellent": "Utmärkt",
+    "reviews": "recensioner"
+  },
+  "faq": {
+    "tagline": "FAQ",
+    "title1": "Vanliga",
+    "title2": "frågor",
+    "items": {
+      "q1": { "q": "Binder jag upp mig på långa avtal?", "a": "Nej, vi tror på att leverera resultat, inte på att låsa in kunder i långa avtal. Våra samarbeten bygger på ömsesidigt förtroende och flexibilitet." },
+      "q2": { "q": "Hur snabbt kan vi se resultat?", "a": "Det beror på er nuvarande situation och valda strategier, men ofta ser vi initiala resultat redan inom de första veckorna efter att vi lanserat våra kampanjer." },
+      "q3": { "q": "Jobbar ni med företag i hela Sverige?", "a": "Ja, vi samarbetar med kunder över hela landet digitalt. Oavsett var ni befinner er kan vi hjälpa er att nå era mål." },
+      "q4": { "q": "Vad kostar era tjänster?", "a": "Vi skräddarsyr våra paket efter era specifika behov och mål. Kontakta oss för en kostnadsfri offert så tar vi fram ett förslag som passar er budget." }
+    },
+    "contact": {
+      "title": "Har du fler frågor?",
+      "desc": "Skicka ett snabbt meddelande så svarar vi oftast inom några timmar.",
+      "nameLabel": "Namn",
+      "namePlaceholder": "Ditt namn",
+      "emailLabel": "E-post",
+      "emailPlaceholder": "Din e-postadress",
+      "msgLabel": "Meddelande",
+      "msgPlaceholder": "Vad funderar du på?",
+      "btn": "Skicka meddelande",
+      "successAlert": "Meddelande skickat! Vi återkommer så snart vi kan."
+    }
+  },
+  "why": {
+    "tagline": "Vem vi är",
+    "title1": "Tillväxt som",
+    "title2": "faktiskt syns",
+    "desc": "NCA MEDIA grundades av Anton Norrman. Vi är en tillväxtpartner för restauranger och ambitiösa verksamheter i Skåne. Vi kombinerar videoproduktion, innehållsstrategi och betald annonsering till ett sammanhållet system som skapar mätbara affärsresultat. Vi mäts inte på antal videos. Vi mäts på din omsättning.",
+    "darkTitle1": "Marknadsföring byggd på bevis,",
+    "darkTitle2": "inte löften.",
+    "darkDesc": "En vanlig byrå levererar content och skickar en rapport. Vi levererar content kopplat till ett mål — och stannar tills målet är uppnått. Vi tar ansvar för din tillväxt så att du kan fokusera på din verksamhet.",
+    "darkTagline": "Din Tillväxtpartner"
+  },
+  "cta": {
+    "tagline": "Nästa steg",
+    "title1": "Redo att driva",
+    "title2": "riktiga affärer?",
+    "desc": "Boka ett gratis 30-minuterssamtal med Anton. Vi går igenom er situation och vilket upplägg som ger mest tillväxt — utan sälj-pitch, utan förpliktelser.",
+    "btn": "Boka strategisamtal"
+  },
+  "footer": {
+    "sitemap": "Sidkarta",
+    "legal": "Juridiskt",
+    "privacy": "Integritetspolicy",
+    "terms": "Användarvillkor",
+    "cookie": "Cookiepolicy",
+    "socials": "Sociala medier",
+    "office": "Kontor",
+    "address1": "Östra Kyrkogatan 22",
+    "address2": "611 34 Nyköping",
+    "address3": "Sverige",
+    "rights": "Alla rättigheter förbehållna."
+  },
+  "portfolio": {
+    "tagline": "Utvalda Case",
+    "title1": "Arbeten som",
+    "title2": "sticker ut.",
+    "shortVideosTitle1": "Kortformade",
+    "shortVideosTitle2": "videor"
+  },
+  "contact": {
+    "tagline": "Kontakt",
+    "title1": "Låt oss snacka",
+    "title2": "affärer.",
+    "send": "Skicka Meddelande",
+    "sending": "Skickar...",
+    "success": "Meddelande skickades framgångsrikt!",
+    "error": "Det gick inte att skicka. Vänligen försök igen.",
+    "info": "Kontaktinfo",
+    "socials": "Sociala medier",
+    "availability": "Vi svarar vanligtvis inom 24 timmar.",
+    "emailUs": "Mejla oss",
+    "callUs": "Ring oss"
+  },
+  "ncaWay": {
+    "tagline": "Vårt Arbetssätt",
+    "title1": "The",
+    "title2": "NCA Way",
+    "desc": "<strong class=\"font-semibold text-foreground\">Kreativitet med riktning. Strategi med själ.</strong> Hos NCA Media handlar marknadsföring inte bara om synlighet, utan om att skapa riktiga interaktioner som driver tillväxt. Vi tror att människor vill se människor, inte reklam. <strong class=\"font-semibold text-foreground\">The NCA Way</strong> är vår unika metod för att kombinera strategi, kreativitet och riktat innehåll, upphöjt genom organisk och betald marknadsföring för att skapa en personlig anslutning och kommunikation som känns äkta, engagerar och levererar resultat.",
+    "items": {
+      "strategy": {
+        "title": "Strategisk Grund",
+        "desc": "Allt börjar med insikt. Vi lär känna ditt varumärke och målgrupp för att upptäcka möjligheter och sätta en tydlig riktning. Detta säkerställer att varje kampanj är baserad på insikt, mätbar och skräddarsydd för tillväxt."
+      },
+      "content": {
+        "title": "Kreativt Innehåll som Träffar Rätt",
+        "desc": "Vi skapar idéer och innehåll som resonerar med målgruppen, engagerar, bygger förtroende och känns äkta, relevant och mänskligt. Genom testning och optimering säkerställer vi att innehållet presterar över sociala medier och annonsering."
+      },
+      "growth": {
+        "title": "Holistisk Tillväxtstrategi",
+        "desc": "När strategin är satt hjälper vi dig att skala din marknadsföring. Vi kopplar ihop innehåll, distribution och betald annonsering i en plan – där kreativitet och strategi går hand i hand för att öka synlighet, stärka varumärket och driva lönsam tillväxt."
+      }
+    }
+  },
+  "analysis": {
+    "title1": "Skräddarsydd",
+    "title2": "Analysplan",
+    "desc": "Fyll i formuläret nedan så tar vi fram en strategi anpassad för just din verksamhet.",
+    "tagline": "Analys",
+    "b2b": {
+      "title": "Företag / B2B / B2C",
+      "desc": "För tjänsteföretag, e-handel och andra verksamheter."
+    },
+    "restaurant": {
+      "title": "Restaurang / Café",
+      "desc": "Specifikt anpassat för restauranger, caféer och barer."
+    },
+    "step": "Steg",
+    "of": "av",
+    "completed": "klart",
+    "next": "Nästa",
+    "submit": "Skicka in",
+    "back": "Tillbaka",
+    "required": "Detta fält är obligatoriskt",
+    "selectOption": "Välj ett alternativ...",
+    "placeholder": "Ditt svar...",
+    "success": {
+      "title": "Tack för dina svar!",
+      "desc": "Vi har tagit emot din information och kommer nu att börja arbeta på din skräddarsydda analysplan. För att vi ska kunna presentera den för dig på bästa sätt, vänligen boka in ett kort möte i vår kalender.",
+      "btn": "Boka möte i vår kalender"
+    }
+  },
+  "cookie": {
+    "message": "Vi använder cookies för att förbättra din upplevelse, analysera webbplatsens användning och visa anpassat innehåll.",
+    "accept": "Acceptera",
+    "decline": "Avböj"
+  }
+}
